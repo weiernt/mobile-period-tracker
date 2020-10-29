@@ -1,8 +1,6 @@
 # Period tracker
-also nice test for mobile app development with kotlin
+Android Period tracker app. Work in progress
 
-Side note:
-Make an android app to use as a soundboard?
 
 # Progress pictures
 ![Preview](images/first_progress_pic.png)
