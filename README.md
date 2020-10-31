@@ -8,4 +8,5 @@ Using kizitonwose/CalendarView for the calendar.
 
 ## Update (31/10/2020)
 Demo gif of the simple date highlighting 
+
 ![Preview](images/4DayHighlightDemo.gif)
